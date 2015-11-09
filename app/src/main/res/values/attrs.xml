@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularImageView">
+        <attr name="border" format="boolean"></attr>
+        <attr name="border_width" format="dimension"></attr>
+        <attr name="border_color" format="color"></attr>
+        <attr name="shadow" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="autoimage">
+        <attr name="isMainMenuBackground" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Theme">
+        <attr name="circularImageViewStyle" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="fonts">
+        <attr name="fonttype" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="SquareImage">
+        <attr name="fixedAlong" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ColorSupplied">
+        <attr name="isColorSupplied" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="TextView">
+        <attr name="istoscale" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>

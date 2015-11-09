@@ -1,0 +1,261 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <!-- The main content view -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        >
+
+
+        <RelativeLayout
+            android:id="@+id/relativeTitleBar"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:background="@drawable/random_pic">
+
+            <ImageView
+                android:id="@+id/imgFireiconWhite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearTopBar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/fireplace_icon_white_with_fireicon" />
+
+            <LinearLayout
+                android:id="@+id/linearTopBar"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@color/topBarBg"
+                android:layout_alignParentTop="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgValorTopicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="15dp"
+                    android:padding="2dp"
+                    android:src="@drawable/valor_top_logo" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/btnNav"
+                    android:layout_width="40dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/nav_button"
+                    android:padding="2dp" />
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txtProgress"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/progress_one"
+            android:visibility="visible">
+
+        </TextView>
+
+
+
+        <LinearLayout
+            android:id="@+id/linearProgress"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/progress_blank"
+            android:gravity="center_vertical"
+            android:paddingBottom="10dp"
+            android:visibility="gone"
+            android:orientation="horizontal">
+
+
+
+            <TextView
+                android:id="@+id/txtStep1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:text="1"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/black"
+                android:textSize="11sp"
+                android:gravity="center_vertical|center_horizontal"
+                android:background="@drawable/white_background_for_text"
+                />
+
+            <TextView
+                android:id="@+id/txtStep1Name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CHOOSE APPLICATION"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/white"
+                android:textSize="11sp"
+                android:gravity="center_vertical"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/linearTextLeft"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.80"
+                android:background="@color/white"
+                android:padding="10dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtHeading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/randomHeading" />
+
+
+                <TextView
+                    android:id="@+id/txtSubHeading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/randomSubheading" />
+
+                <TextView
+                    android:id="@+id/txtContent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/randomContent" />
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@color/greyText"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+                <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@color/greyText"
+                    android:layout_margin="10dp"
+                    android:dividerHeight="2dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+        <!-- Navigation Menu Here-->
+
+
+
+        <!-- The navigation drawer -->
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:layout_marginTop="10dp"
+            android:background="@color/navlistbg"
+            android:id="@+id/menuNav"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="320dp"
+                android:layout_height="wrap_content"
+                android:background="@color/navlistbg"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="DEALER LOGIN"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:layout_width="2dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:layout_margin="5dp"
+                     />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:padding="3dp"
+                    android:src="@drawable/person_icon" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/greydarkBackGround"/>
+
+
+            <ListView
+                android:id="@+id/left_drawer"
+                android:layout_width="320dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:background="@color/navlistbg"
+                android:choiceMode="singleChoice" />
+
+        </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="320dp"
+        android:layout_height="match_parent" />
+
+    </android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,507 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- The main content view -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Top Bar -->
+
+
+        <RelativeLayout
+            android:id="@+id/relativeTitleBar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/header_image">
+
+
+            <LinearLayout
+                android:id="@+id/linearTopBar"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:padding="8dp"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/header"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imgValorTopicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/header_logo" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:id="@+id/linearNavigatiion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/btnNav"
+                        android:layout_width="40dp"
+                        android:layout_height="25dp"
+                        android:background="@drawable/selector_btn_navbtn"
+                        android:padding="2dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+        <!-- Top Bar Ends-->
+
+
+        <!-- Progress Starts-->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:paddingBottom="2dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/imgdownArrow"
+                    android:layout_width="50dp"
+                    android:layout_height="38dp"
+                    android:background="@drawable/down_arrow" />
+
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:id="@+id/linearProgress"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/progress_bar"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="visible">
+                <!--android:paddingBottom="10dp"-->
+
+
+                <TextView
+                    android:id="@+id/txtStep1"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:background="@drawable/white_background_for_text"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/one"
+                    android:textColor="@drawable/selector_btn_textcolor_blacktored"
+                    android:textSize="@dimen/text.size.regular" />
+
+                <TextView
+                    android:id="@+id/txtStep1Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:gravity="center_vertical"
+                    android:text="@string/choose.application"
+                    android:textSize="@dimen/text.size.regular"
+                    android:textColor="@drawable/selector_btn_textcolor_grid" />
+                <!--android:textSize="10sp"-->
+
+                <TextView
+                    android:id="@+id/txtStep2"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:background="@drawable/white_background_for_text"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/two"
+                    android:textColor="@drawable/selector_btn_textcolor_blacktored"
+                    android:textSize="@dimen/text.size.regular" />
+
+                <TextView
+                    android:id="@+id/txtStep2Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:gravity="center_vertical"
+                    android:text="@string/choose.series"
+                    android:textSize="@dimen/text.size.regular"
+                    android:textColor="@drawable/selector_btn_textcolor_grid" />
+
+
+              <!--  <TextView
+                    android:id="@+id/txtSteps3"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:background="@drawable/white_background_for_text"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/three"
+                    android:textColor="@drawable/selector_btn_textcolor_blacktored"
+                    android:textSize="@dimen/text.size.regular" />
+
+                <TextView
+                    android:id="@+id/txtSteps3Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:gravity="center_vertical"
+                    android:text="@string/choose.model"
+                    android:textSize="@dimen/text.size.regular"
+                    android:textColor="@drawable/selector_btn_textcolor_grid"
+                    />
+-->
+                <TextView
+                    android:id="@+id/txtStep3"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:background="@drawable/white_background_for_text"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/three"
+                    android:textColor="@drawable/selector_btn_textcolor_blacktored"
+                    android:textSize="@dimen/text.size.regular" />
+
+                <TextView
+                    android:id="@+id/txtStep3Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin.tiny"
+                    android:gravity="center_vertical"
+                    android:text="@string/design.your.valor.fireplace"
+                    android:textSize="@dimen/text.size.regular"
+                    android:textColor="@drawable/selector_btn_textcolor_grid" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <!-- Progress Ends-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/linearImageSection"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/margin.tiny"
+                android:layout_marginRight="@dimen/margin.tiny"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <RelativeLayout
+                    android:id="@+id/relativeImageParent"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bordered_layout_bg">
+
+                    <com.awrtechnologies.valor.valorfireplace.helper.ZoomView
+                        android:id="@+id/valorComponent"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:descendantFocusability="afterDescendants">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:id="@+id/backgroundImageView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:clickable="false"
+                                android:scaleType="centerCrop" />
+
+                            <com.awrtechnologies.valor.valorfireplace.helper.TouchImageView
+                                android:id="@+id/fireplaceImageView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_centerInParent="true"
+                                android:adjustViewBounds="true"
+                                android:clickable="true" />
+                        </RelativeLayout>
+
+                    </com.awrtechnologies.valor.valorfireplace.helper.ZoomView>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btnGallery"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/selector_btn_gallery" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <Button
+                            android:id="@+id/btnCamera"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/selector_btn_camera" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <Button
+                            android:id="@+id/btnChangeModel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:text="Change Model"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginRight="10dp"
+                            android:textColor="@color/white"
+                            android:background="@color/buttonBGred" />
+
+
+                        </LinearLayout>
+
+                </RelativeLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.40"
+                    android:layout_marginTop="5dp"
+                    android:orientation="vertical">
+
+                      <HorizontalScrollView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+
+                          >
+
+                          <LinearLayout
+                              android:id="@+id/linearLayoutAddview"
+                              android:layout_width="wrap_content"
+                              android:orientation="horizontal"
+                              android:background="@color/black"
+                              android:layout_height="wrap_content">
+
+                          </LinearLayout>
+                      </HorizontalScrollView>
+
+
+
+                    <!--<ListView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/categorylist"-->
+                        <!--android:divider="@color/greydarkBackGround"-->
+                        <!--android:listSelector="@color/redText"-->
+                        <!--android:dividerHeight="10dp">-->
+
+                    <!--</ListView>-->
+                <com.awrtechnologies.valor.valorfireplace.hlistview.widget.HListView
+                    android:id="@+id/featuredHlistView"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="0.40"
+                    android:choiceMode="singleChoice"
+                    android:listSelector="#666666"
+                    android:background="@drawable/listbackground"
+                    android:divider="@color/greydarkBackGround"
+                    android:gravity="center"
+                    app:hlv_dividerWidth="1dp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="3dp"
+
+                android:layout_weight="0.30"
+                android:background="@color/greydarkBackGround"
+                android:orientation="vertical">
+
+                <ListView
+                    android:id="@+id/listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="1"
+                    android:padding="5dp" />
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayoutCategoryview"
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:background="@color/white"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_height="wrap_content">
+
+                    </LinearLayout>
+                </ScrollView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:background="@color/buttonBGbrown"
+                    android:orientation="horizontal"
+                    android:padding="5dp">
+
+                    <Button
+                        android:id="@+id/btnBack"
+                        android:layout_width="0dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="2dp"
+                        android:layout_weight="1"
+                        android:background="@color/redText"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="@string/back"
+                        android:textColor="@color/white" />
+
+                    <Button
+                        android:id="@+id/btnFinish"
+                        android:layout_width="0dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="2dp"
+                        android:layout_weight="1"
+                        android:background="@color/buttonBGbrown"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="@string/finish"
+                        android:textColor="@color/white" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <!-- The main content view -->
+
+
+    <!-- The navigation drawer -->
+
+    <LinearLayout
+        android:id="@+id/menuNav"
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:layout_marginTop="10dp"
+        android:background="@color/navlistbg"
+        android:descendantFocusability="afterDescendants"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:background="@color/navlistbg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/userName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="@string/salesmanLogin"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="2dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:background="@color/white" />
+
+            <ImageView
+                android:id="@+id/userImg"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:padding="3dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/person_icon" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/greydarkBackGround" />
+
+
+        <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="320dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/navlistbg"
+            android:choiceMode="singleChoice"
+            android:listSelector="@color/buttonBuildValor" />
+
+    </LinearLayout>
+
+    <!-- The navigation drawer Ends-->
+
+
+</android.support.v4.widget.DrawerLayout>

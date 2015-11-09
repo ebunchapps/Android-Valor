@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blackshaded">#80000000</color>
+    <color name="redText">#eb272e</color>
+    <color name="greyText">#969696</color>
+    <color name="topBarBg">#35303030</color>
+    <color name="greyLightBackGround">#f5f2f2</color>
+    <color name="greydarkBackGround">#dddddd</color>
+    <color name="buttonBGbrown">#333333</color>
+    <color name="buttonBGred">#eb272e</color>
+    <color name="buttonBuildValor">#e9262d</color>
+    <color name="navlistbg">#333333</color>
+    <color name="loginbutton">#9e98ce</color>
+    <color name="backgroundcolor">#f0f3f4</color>
+
+
+    <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+
+</resources>

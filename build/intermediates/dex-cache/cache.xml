@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-0b50112cf9202549d5aad980bb48b1382bb15895.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-5e4eb147169d23c86166bbafdd4d26188e9f5e2a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-412f7d96f9b616eff1f9012a3e160fad574705a7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3de40dec46e60d78ba4bcf5bc33b44632aaeb714.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-e4cdcacb29657d99e7b177a83fbcb81ecb57e8b8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-412f7d96f9b616eff1f9012a3e160fad574705a7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7965e9d02ebcdef01fbbb74c6e3e26299bafa257.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-cbdae467e75b6d914c6b6c2c905d1cf465893683.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-core-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3933bc15f7e29e02512be55d7407eb013b2119d1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.0-6450dd0afe62d82de540aea0d5b6b060c74a59c2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-045dcce8beb3542ee5adf798d90b79b99e3b14e0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-373ab50f6b7aac0ad7651f4e71077eaf6b200848.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-s3-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f0b1e65da6a9912a18c7a8808d26cd5a05cb9e11">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.0-ff5fda2c95e1e75bd5f473856c030ce08bc8b29d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\libs\tileviewlib-1.0.15.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8c983d2f70b817d8990fa76bc13e3a37f07fa0d">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\tileviewlib-1.0.15-30ca181dea38a25c4cf47a72fdba33b104b9ed1e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83ad92647c0a9617d51161d8a8ecb956d1bad63b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83cd3efa0c1fc5fa76cb95c91cfb8533d118d0fa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-ae42049965a3cc9da214fc446af7422589ec96cf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\libs\PdfViewer.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a53b4c813e4237286bd10f0c334c46e894970666">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\PdfViewer-79474b57a661ca7e646ef1ad596c12c8689d5d5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\warlock\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-6d131cc5d0bc14502ca6e7dc1b045bbd4d82b394.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-de7ed058082aec3a0eefb63b53b10829092a50a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a20cf8f94f3b4060a071a79df3e5aa78d378ead0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-59d4e06a5e20daef18d1d4389a92fb475fe23d24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b8d2ea107daf53101337af72a9dc3bb44f6b2bf8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-afc8fe333974179286f8f3b84a7e8933d1ad4f45.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-e4cdcacb29657d99e7b177a83fbcb81ecb57e8b8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\PdfViewer.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a53b4c813e4237286bd10f0c334c46e894970666">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\PdfViewer-1a3bdc866427a08f526c927dc9af83f7d8284321.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83cd3efa0c1fc5fa76cb95c91cfb8533d118d0fa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-2920254e792a34af572db135de1ce206b4a5af31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\nineoldsanimationlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e194706ea82d55940e0e873a9ea79802aea73ac1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-393da92ab76d55d622d00e0dc5e46992f3bbd2b5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\uL\unspecified\jars\libs\aws-android-sdk-core-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3933bc15f7e29e02512be55d7407eb013b2119d1">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.0-c157112d31ae595873133788dfddb4e998f0eb32.jar" />
+    </item>
+    <item
+        jar="D:\SOFTWARE\adt_bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-dcaf49ab74a6de9fba7ed9f787cf3d21dc50e13f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-2c47d17a2fcd8d0bbafc9ceeeb141d8131388b0d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83ad92647c0a9617d51161d8a8ecb956d1bad63b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a799fb57d0d8f44df0c8c4c176691e749b2ff474.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1d7ebf6454cd5c9c7ab72c041532325e6f69b0f8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-53db3062f643dfadaefe94be94f0df150e947cfa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-7e8af0e911f2efcbca2088185a7b8ab8091253b3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-904dd0ab6310d3144dd06f3c0e720b6c20799e28.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a20cf8f94f3b4060a071a79df3e5aa78d378ead0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1a9d932dc8d75d5e7159d52dbcce607fb504e38d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-4e76186b95ec776a2e5959ba9ee2561976bd1e0f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-7e8af0e911f2efcbca2088185a7b8ab8091253b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\warlock\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6c482d5c2ff688fa6b55901c90b086af94b76c13.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-b0200d14aa61b68d1540ee01c93478154694c07c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d032610b71bb52737e3c8cd24dcced99057c2828.jar" />
+    </item>
+    <item
+        jar="C:\Users\warlock\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6c482d5c2ff688fa6b55901c90b086af94b76c13.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7965e9d02ebcdef01fbbb74c6e3e26299bafa257.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-cbdae467e75b6d914c6b6c2c905d1cf465893683.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-7c43db8d09c9b8b28332dc83c822f53ee57d36fa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7965e9d02ebcdef01fbbb74c6e3e26299bafa257.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="62d5f90ecf84b57a25c9226a6c168c549d6c7165">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\ActiveAndroid-95fc23b2cd70c49ecb8cf5480740e1ad1d0f5a59.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a799fb57d0d8f44df0c8c4c176691e749b2ff474.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-c193c2fdf9b0aebae7a699d441ad09667e467596.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b9646c8fa15d2e253f6047ea160149fc6c9937fd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d032610b71bb52737e3c8cd24dcced99057c2828.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-de7ed058082aec3a0eefb63b53b10829092a50a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-d8fc5a80cc4a4e7a326135719648203247fdd7d8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-7e8af0e911f2efcbca2088185a7b8ab8091253b3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-904dd0ab6310d3144dd06f3c0e720b6c20799e28.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-59d4e06a5e20daef18d1d4389a92fb475fe23d24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-aecc69d9886d1a4eb3ec0c7889f2c956025aa33a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-84aa3fb345d1e890e66836d060ae1af462de1231.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62d5f90ecf84b57a25c9226a6c168c549d6c7165">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\ActiveAndroid-95fc23b2cd70c49ecb8cf5480740e1ad1d0f5a59.jar" />
+    </item>
+    <item
+        jar="D:\SOFTWARE\adt_bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-dcaf49ab74a6de9fba7ed9f787cf3d21dc50e13f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-s3-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f0b1e65da6a9912a18c7a8808d26cd5a05cb9e11">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.0-ff5fda2c95e1e75bd5f473856c030ce08bc8b29d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-fd1fbe18a5f7fe55cae03188b27d7d20a3f3fc52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\PdfViewer.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a53b4c813e4237286bd10f0c334c46e894970666">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\PdfViewer-1a3bdc866427a08f526c927dc9af83f7d8284321.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a20cf8f94f3b4060a071a79df3e5aa78d378ead0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-904dd0ab6310d3144dd06f3c0e720b6c20799e28.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-s3-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0b1e65da6a9912a18c7a8808d26cd5a05cb9e11">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.0-ff5fda2c95e1e75bd5f473856c030ce08bc8b29d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1d7ebf6454cd5c9c7ab72c041532325e6f69b0f8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83cd3efa0c1fc5fa76cb95c91cfb8533d118d0fa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-c193c2fdf9b0aebae7a699d441ad09667e467596.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dfa133fabbcf055212d71d01d7ea696f45faec5">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a2633b14fd35aafabef92171c88b88c3b4405774.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-5dbaa836ead5efd82998cbddcb1a65dbe79239ab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\nineoldsanimationlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c68f3c53b1fc0bde6a50ae6acf42cba5dc420743">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-393da92ab76d55d622d00e0dc5e46992f3bbd2b5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-0f7452225282a327896acb2fb6f5ee31f5bac9ce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d5c46f61f3ab37d42022b3178034659ef7cada4d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-ae42049965a3cc9da214fc446af7422589ec96cf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-84aa3fb345d1e890e66836d060ae1af462de1231.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1a9d932dc8d75d5e7159d52dbcce607fb504e38d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-e50b18575d26736d935e8d62710f8c163f8fba25.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.joanzapata.pdfview\android-pdfview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-635042277dbd8e84cf44e8a8b5944225e6d6871a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.joanzapata.pdfview\android-pdfview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-85d7ef2755d150682dc8e979fcb85752f80237a0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-e4cdcacb29657d99e7b177a83fbcb81ecb57e8b8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\uL\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d9feb0d2004edcbb94fc7dd4aa25a41df9762935">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-bf5976e8686eb984f3f6e624d3778eaa53f84fac.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-83ad92647c0a9617d51161d8a8ecb956d1bad63b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-afc8fe333974179286f8f3b84a7e8933d1ad4f45.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-fd1fbe18a5f7fe55cae03188b27d7d20a3f3fc52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1a9d932dc8d75d5e7159d52dbcce607fb504e38d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.joanzapata.pdfview\android-pdfview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-85d7ef2755d150682dc8e979fcb85752f80237a0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-c693a8aa34014eed219a7ef5c6f67bab6011fa30.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-59d4e06a5e20daef18d1d4389a92fb475fe23d24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-de7ed058082aec3a0eefb63b53b10829092a50a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-7d3fe069fe7078a04422ed741d90aba91f2927a1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-cbdae467e75b6d914c6b6c2c905d1cf465893683.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-c193c2fdf9b0aebae7a699d441ad09667e467596.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3de40dec46e60d78ba4bcf5bc33b44632aaeb714.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-core-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3933bc15f7e29e02512be55d7407eb013b2119d1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.0-6450dd0afe62d82de540aea0d5b6b060c74a59c2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-a3abcaae62dca45f67d9fb1561e5d4b9a616d8f8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b8d2ea107daf53101337af72a9dc3bb44f6b2bf8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-a4245342dfc51fb044765fe55f6e8425665d2286.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="62d5f90ecf84b57a25c9226a6c168c549d6c7165">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\ActiveAndroid-95fc23b2cd70c49ecb8cf5480740e1ad1d0f5a59.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-2920254e792a34af572db135de1ce206b4a5af31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-2920254e792a34af572db135de1ce206b4a5af31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-feaa97e71a658bf47f7b843a7c843b897456475d.jar" />
+    </item>
+    <item
+        jar="D:\SOFTWARE\adt_bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-dcaf49ab74a6de9fba7ed9f787cf3d21dc50e13f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.joanzapata.pdfview\android-pdfview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-85d7ef2755d150682dc8e979fcb85752f80237a0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\libs\ActiveAndroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62d5f90ecf84b57a25c9226a6c168c549d6c7165">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\ActiveAndroid-84cf7f535540ca588455ee674f4064975a27f053.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a799fb57d0d8f44df0c8c4c176691e749b2ff474.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b9646c8fa15d2e253f6047ea160149fc6c9937fd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\uL\unspecified\jars\libs\aws-android-sdk-s3-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0b1e65da6a9912a18c7a8808d26cd5a05cb9e11">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.0-b2d7cd49325084f0de6f9da3037fc0f84ce29035.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b8d2ea107daf53101337af72a9dc3bb44f6b2bf8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-412f7d96f9b616eff1f9012a3e160fad574705a7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-43a702b4946b6481afc9b8fc6cb18647335a838a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-ef77283cd9cfcf5ee4afbb88cab1d98d4b253abe.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-1d7ebf6454cd5c9c7ab72c041532325e6f69b0f8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ad94661641c9d36556a378ff0547a33e31156a5">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a2633b14fd35aafabef92171c88b88c3b4405774.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ed7d4c6a63938c8959a4d3217c1541f1db5dbf48.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3de40dec46e60d78ba4bcf5bc33b44632aaeb714.jar" />
+    </item>
+    <item
+        jar="C:\Users\warlock\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6c482d5c2ff688fa6b55901c90b086af94b76c13.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\libs\aws-android-sdk-core-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3933bc15f7e29e02512be55d7407eb013b2119d1">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.0-6450dd0afe62d82de540aea0d5b6b060c74a59c2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d5c46f61f3ab37d42022b3178034659ef7cada4d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-db292b1d26397ea058cbdebeaf0e05f926b445be.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d032610b71bb52737e3c8cd24dcced99057c2828.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-afc8fe333974179286f8f3b84a7e8933d1ad4f45.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-b9646c8fa15d2e253f6047ea160149fc6c9937fd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-fd1fbe18a5f7fe55cae03188b27d7d20a3f3fc52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-423ba461e8ae92e91cfd8fe7c316311e332f031d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-84aa3fb345d1e890e66836d060ae1af462de1231.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\nineoldsanimationlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68f3c53b1fc0bde6a50ae6acf42cba5dc420743">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-393da92ab76d55d622d00e0dc5e46992f3bbd2b5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\Valor-new\uL\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7ad94661641c9d36556a378ff0547a33e31156a5">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-a2633b14fd35aafabef92171c88b88c3b4405774.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\nineoldsanimationlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ff8174f28fed60a73f7f574d159d917aa03a3b30">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-aaaaaa975cdfc2d5caf1ef99d4deb0e880d8b56c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d1cbdc4a6e3aadb661399fc610a1daa4a9dc6b74.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AndroidStudioProjects\Valor-master-e550f48799c4046c71296b7c2a9f7dc8307346ad\app\build\intermediates\pre-dexed\debug\classes-faf45bb359ba76c561546934a94adb2beec4160f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\libs\PdfViewer.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a53b4c813e4237286bd10f0c334c46e894970666">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\PdfViewer-1a3bdc866427a08f526c927dc9af83f7d8284321.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-d5c46f61f3ab37d42022b3178034659ef7cada4d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AndroidStudioProjects\Valor-new\app\build\intermediates\pre-dexed\debug\classes-ae42049965a3cc9da214fc446af7422589ec96cf.jar" />
+    </item>
+
+</items>

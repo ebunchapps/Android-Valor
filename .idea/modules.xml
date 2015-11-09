@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Valor-new.iml" filepath="$PROJECT_DIR$/Valor-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineoldsanimationlib/nineoldsanimationlib.iml" filepath="$PROJECT_DIR$/nineoldsanimationlib/nineoldsanimationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uL/uL.iml" filepath="$PROJECT_DIR$/uL/uL.iml" />
+    </modules>
+  </component>
+</project>

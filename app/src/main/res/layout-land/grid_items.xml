@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/round_corners"
+    >
+
+
+    <ImageView
+    android:id="@+id/imglistitem"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:scaleType="fitXY"
+    />
+
+    <!--<com.awrtechnologies.valor.valorfireplace.uicomponents.roundimageview.RoundedImageView-->
+        <!--android:id="@+id/imglistitem"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:scaleType="fitXY"-->
+        <!--android:layout_margin="2dp"-->
+        <!--android:src="@drawable/img_one" />-->
+
+    <LinearLayout
+        android:id="@+id/linearContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/imglistitem"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/txtheadingList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:lines="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Legend G4 Insert Series"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@drawable/selector_btn_textcolor_grid"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Valor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Splash Screen -->
+
+    <string name="copyrightText">Copyright © 2015 Miles Industries Ltd. All Rights Reserved.</string>
+    <string name="fireplace">FIREPLACE</string>
+    <string name="designCenter">DESIGN CENTER</string>
+    <string name="buildYourOwn">BUILD &amp; PRICE YOUR OWN VALOR FIREPLACE</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <!-- First Screen-->
+    <string name="randomHeading">CHOOSE YOUR FIREPLACE APPLICATION</string>
+
+    <string name="randomSubheading">To start creating your very own Valor gas fireplace, simply
+choose from the 3 application types on the right. Valor offers
+verstaile fireplace applications for zero clearance, insert &amp;
+freestanding options which means you can find a model to
+fit any space.
+
+</string>
+
+    <string name="salesmanLogin"> LOGIN</string>
+    <string name="randomContent">All Valor fireplaces are designed with performance as the
+primary objective. We take pride in providing you with a
+reliable, easy to control, radiant gas heater that will last for
+many years to come.</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="random1">Tired of chopping, stacking and loading firewood in the cold?
+Then it’s time to add reliable warmth to your home or weekend
+getaway. No matter what the application, we have the
+freestanding stove for you.</string>
+    <string name="random2">Versatile in design, Valor stoves nestle comfortably in cold
+basement spaces, abandoned inglenooks and tight room
+corner configurations.</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_sign_in">SigninActivity</string>
+
+    <string name="locate">Locate A Valor Dealer</string>
+    <string name="locateContent">Looking for information about your design or selection?
+Find a Valor dealer in your area by entering your postal/zip
+code below:</string>
+    <string name="one">1</string>
+    <string name="choose.application">CHOOSE APPLICATION</string>
+    <string name="two">2</string>
+    <string name="choose.series">CHOOSE SERIES</string>
+    <string name="three">3</string>
+    <string name="choose.model">CHOOSE MODEL</string>
+    <string name="choose.your.fireplace.model">Choose Your Fireplace Model</string>
+    <string name="insert.fireplaces">Insert Fireplaces</string>
+    <string name="choose.your.fireplace.series">Choose Your Fireplace Series</string>
+    <string name="four">4</string>
+    <string name="design.your.valor.fireplace">DESIGN YOUR VALOR FIREPLACE</string>
+    <string name="five">5</string>
+    <string name="email.and.share.your.design"><![CDATA[EMAIL & SHARE YOUR DESIGN]]></string>
+    <string name="submit">Submit</string>
+    <string name="print">Print</string>
+    <string name="locate.a.dealer">Locate A Dealer</string>
+    <string name="pdf.brochure">PDF Brochure</string>
+    <string name="pdf.manual">PDF Manual</string>
+    <string name="share">Share</string>
+    <string name="build.a.new.valor">Build A New Valor</string>
+    <string name="back">BACK</string>
+    <string name="finish">FINISH</string>
+</resources>
